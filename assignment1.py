@@ -1,5 +1,5 @@
 # Question 1
-length = float(input("lenght: "))
+length = float(input("length: "))
 breadth = float (input("breadth: "))
 
 area = length*breadth
